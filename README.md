@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SIT](https://github.com/nojusta/sit-app)
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
