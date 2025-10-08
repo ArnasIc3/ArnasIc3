@@ -13,7 +13,3 @@
 </p>
   </a>
 </p>
-
-- 🔭 I’m currently working on [SIT](https://github.com/nojusta/sit-app)
-
-- 🌱 I’m currently learning **nothing**
